@@ -36,16 +36,17 @@ pip install mysql-connector-python
 
 ![p2](https://github.com/user-attachments/assets/9b9116e1-efc3-446d-988f-83709e6a328b)
 
-3.Trying to deposit money to user account
 
 
-i.To correct account number
+3.Deposit money to user account
+
+i.Trying to deposit money to correct account number
 
 
 ![deposit](https://github.com/user-attachments/assets/4f224301-145a-4826-bca3-626f92dd9214)
 
 
-ii.Trying to deposit wrong to wrong account
+ii.Trying to deposit money to wrong account
 
 
 ![noaccexist](https://github.com/user-attachments/assets/769fb402-88cf-4264-ba79-47d3ab6fac14)
